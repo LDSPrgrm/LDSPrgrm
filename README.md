@@ -4,88 +4,28 @@
   <em>When a problem matters, I build a tool until the solution sings ✨</em>
 </p>
 
+## 💬 Connect & collaborate
+<p align="center">
+  <a href="https://github.com/LDSPrgrm"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/ldsubala/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:ldsprgrm@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+---
+
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active-2bbc8a?style=for-the-badge&logo=github" alt="Active" />
   <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-blueviolet?style=for-the-badge&logo=visualstudiocode" alt="Full Stack" />
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-6f42c1?style=for-the-badge&logo=tensorflow" alt="AI & ML" />
-  <img src="https://img.shields.io/badge/Primary-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
 </p>
 
 ---
 
-<!-- HERO BADGES -->
+## 🧩 Tech stack (prominent)
 <p align="center">
-  <img src="https://img.shields.io/badge/Docs-updating-ffd166?style=for-the-badge" alt="Docs" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Version-main-00b7c2?style=for-the-badge" alt="Version" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/License-MIT-000000?style=for-the-badge" alt="License" />
-</p>
-
----
-
-## 🌟 Who I Am
-
-I build with curiosity, craft with care, and ship with quiet confidence. I approach problems like a sculptor: chip away the unnecessary, reveal the elegant shape, and polish until the tool feels inevitable. My work sits where practical engineering meets thoughtful design — resilient backends that hum, frontends that breathe, and AI experiments that surface meaning.
-
-> "Write code that behaves kindly in the wild." — a small reminder I try to honor in every project.
-
----
-
-## ✨ Highlight Reel — Featured Projects
-
-<div align="center">
-
-#### AlgoVision
-<p align="center">
-  <strong>Interactive algorithm studio • Python</strong>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python" alt="Python" />
-  <img src="https://img.shields.io/badge/Use-Visualization-9cf?style=flat" alt="Visualization" />
-</p>
-<p align="center">
-  A cinematic, interactive environment that renders algorithm execution as living, explorable narratives. Instrumentation captures memory and control-flow, renders frame-by-frame transitions (arrays, heaps, graphs), and exposes tunable knobs for inputs and invariants — turning abstract complexity into tactile intuition.
-</p>
-
----
-
-#### CycloSync
-<p align="center">
-  <strong>Realtime sync & telemetry • Vue.js</strong>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Framework-Vue.js-42b883?style=flat&logo=vue.js" alt="Vue" />
-  <img src="https://img.shields.io/badge/Pattern-Realtime-ffb86b?style=flat" alt="Realtime" />
-</p>
-<p align="center">
-  A WebSocket-first architecture designed for low-latency, multi-client consistency. Event-stream choreography, optimistic reconciliation, and tiny micro-interactions produce smooth UX even when network events arrive out of order — ideal for telemetry dashboards and collaborative editors.
-</p>
-
----
-
-#### LiveSubs
-<p align="center">
-  <strong>Low-latency captioning pipeline • Python</strong>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Tech-Python-3776AB?style=flat&logo=python" alt="Python" />
-  <img src="https://img.shields.io/badge/Feature-Low%20Latency-ea580c?style=flat" alt="Low Latency" />
-</p>
-<p align="center">
-  A modular streaming pipeline that stitches ASR, punctuation & normalization, diarization, and timecode alignment into production-ready subtitles. Designed so each stage can be swapped or scaled independently: flexible for experimentation, reliable for broadcast.
-</p>
-
-</div>
-
----
-
-## 🧰 Tech Stack
-
-<p align="center">
-  <!-- Languages & Frameworks -->
+  <!-- Languages & frameworks -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
   <img src="https://img.shields.io/badge/NiceGUI-00AABB?style=for-the-badge" alt="NiceGUI" />
@@ -111,73 +51,81 @@ I build with curiosity, craft with care, and ship with quiet confidence. I appro
 
 ---
 
-## ⚙️ Core Focus & Obsessions
+## 🌟 Who I am
 
-- Backend craftsmanship: robust APIs, resilient queues, reproducible releases 🛠️  
-- Pragmatic ML: rapid prototyping → reproducible inference → productionized pipelines 🧪  
-- Reactive UIs: component-first design, micro-interactions, progressive enhancement ✨  
-- Observability: metrics, traces, and logs so systems tell a truthful story 📈
+I build with curiosity, craft with care, and ship with quiet conviction. I treat problems like raw marble — patiently chipping away until a useful, elegant shape emerges. Code for me is a practiced craft: thoughtful APIs that behave kindly in production, UIs that feel human, and models that illuminate possibility rather than obscure it.
+
+I love the small pleasures of engineering: the satisfying hum of a background job that never fails, the instant of clarity when a visualization makes an algorithm obvious, and the way a realtime interaction can feel instantaneous. If you believe tools can be both precise and poetic, we already share a compass. ✨
 
 ---
 
-## 📈 Contributions — Total, Current Streak & Longest Streak
+## ✨ Featured projects
 
-<div align="center">
-
-<!-- Contribution heatmap (last 12 months) -->
-### Total contributions (last 12 months)
-<p align="center">
-  <!-- contribution graph image -->
-  <img src="https://ghchart.rshah.org/LDSPrgrm" alt="LDSPrgrm's GitHub contributions chart" />
+### AlgoVision
+<p>
+🔬 A Python-powered studio that turns algorithms into living stories. Through fine-grained instrumentation it animates memory and control flow, surfaces invariants, and offers interactive controls so learners can experiment — transforming theoretical complexity into practical intuition.
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat&logo=python" alt="Python" />
+  <img src="https://img.shields.io/badge/Focus-Visualization-9cf?style=flat" alt="Visualization" />
 </p>
 
 ---
 
-<!-- Streak stats (current & longest) -->
-### Current streak & Longest streak
-<p align="center">
-  <!-- streak stats image -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LDSPrgrm&theme=light&date_format=%5BY%20%5DM%20j" alt="LDSPrgrm's streak stats" />
+### CycloSync
+<p>
+⚡ A WebSocket-first Vue platform engineered for real-time sync and telemetry. Event-stream choreography, optimistic reconciliation, and micro-interactions combine to deliver low-latency consistency across clients — ideal for dashboards, collaborative tools, and telemetry-driven UIs.
 </p>
-
-</div>
-
-Notes:
-- The heatmap above visualizes daily contributions for the last 12 months.
-- The streak card shows your current contribution streak and your longest streak (auto-updates).
-
----
-
-## 📊 GitHub Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LDSPrgrm&show_icons=true&theme=light" alt="LDSPrgrm's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LDSPrgrm&layout=compact&theme=light" alt="Top languages" />
+<p>
+  <img src="https://img.shields.io/badge/Framework-Vue.js-42b883?style=flat&logo=vue.js" alt="Vue" />
+  <img src="https://img.shields.io/badge/Pattern-Realtime-ffb86b?style=flat" alt="Realtime" />
 </p>
 
 ---
 
-## 💬 Connect & Collaborate
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ldsubala/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  &nbsp;
-  <a href="mailto:ldsprgrm@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  &nbsp;
-  <a href="https://github.com/LDSPrgrm"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+### LiveSubs
+<p>
+🎙️ A modular subtitle pipeline for low-latency streaming. Streaming ASR, punctuation & normalization, diarization hooks, and precise timecode alignment are composed as replaceable stages so pipelines can be tuned, swapped, and scaled for production.
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Tech-Python-3776AB?style=flat&logo=python" alt="Python" />
+  <img src="https://img.shields.io/badge/Feature-Low%20Latency-ea580c?style=flat" alt="Low Latency" />
 </p>
 
 ---
 
-## 🤝 How to Help
+## ⚙️ Core focus & obsessions
+
+- Clean, testable backends and resilient job queues 🛠️  
+- Pragmatic ML: quick experiments that become reproducible inference paths 🧪  
+- Reactive frontends that feel instantaneous — micro-interactions matter ✨  
+- Observability-first releases: metrics, traces, structured logs 📈
+
+---
+
+## 📚 Quick start
+
+1. Clone any project:  
+   git clone https://github.com/LDSPrgrm/<repo>.git  
+2. Read the project README for setup (virtualenv / composer / flutter / dart).  
+3. For ML work, use pinned requirements or provided notebooks to reproduce results.  
+4. For realtime demos, run the websocket backend and the dev frontend, then watch the event logs.
+
+---
+
+## 🤝 How to help / collaborate
 
 - Star repositories you find useful ⭐  
 - Open concise issues with reproduction steps 🐞  
 - Submit small, test-covered PRs for faster review 🔁  
-- Share an idea or ask for collaboration — I love focused, practical projects
+- Propose focused collaborations — I enjoy practical, bounded projects
 
 ---
 
+- Any badges/stats/cards you want included
+
 <p align="center">
-  <strong style="font-size:1.1rem;">If a problem matters to you, let's build the tool that makes it manageable — beautifully and reliably ✨</strong>
+  <strong style="font-size:1.05rem;">If a problem matters to you, let's build the tool that makes it manageable — beautifully and reliably ✨</strong>
 </p>
+
+[Back to top](#ldsprgrm)
