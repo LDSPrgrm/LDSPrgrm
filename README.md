@@ -1,11 +1,6 @@
 <h1 align="center">LDSPrgrm</h1>
 
 <p align="center">
-  <em>When a problem matters, I build a tool until the solution sings ✨</em>
-</p>
-
-## 💬 Connect & collaborate
-<p align="center">
   <a href="https://github.com/LDSPrgrm"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/ldsubala/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -13,7 +8,9 @@
   <a href="mailto:ldsprgrm@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
----
+<p align="center">
+  <em>When a problem matters, I build a tool until the solution sings ✨</em>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active-2bbc8a?style=for-the-badge&logo=github" alt="Active" />
@@ -23,7 +20,7 @@
 
 ---
 
-## 🧩 Tech stack (prominent)
+## 🧩 Tech Stack
 <p align="center">
   <!-- Languages & frameworks -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -51,7 +48,7 @@
 
 ---
 
-## 🌟 Who I am
+## 🌟 Who I Am
 
 I build with curiosity, craft with care, and ship with quiet conviction. I treat problems like raw marble — patiently chipping away until a useful, elegant shape emerges. Code for me is a practiced craft: thoughtful APIs that behave kindly in production, UIs that feel human, and models that illuminate possibility rather than obscure it.
 
@@ -59,7 +56,7 @@ I love the small pleasures of engineering: the satisfying hum of a background jo
 
 ---
 
-## ✨ Featured projects
+## ✨ Featured Projects
 
 ### AlgoVision
 <p>
@@ -94,7 +91,7 @@ I love the small pleasures of engineering: the satisfying hum of a background jo
 
 ---
 
-## ⚙️ Core focus & obsessions
+## ⚙️ Core Focus & Obsessions
 
 - Clean, testable backends and resilient job queues 🛠️  
 - Pragmatic ML: quick experiments that become reproducible inference paths 🧪  
@@ -103,17 +100,7 @@ I love the small pleasures of engineering: the satisfying hum of a background jo
 
 ---
 
-## 📚 Quick start
-
-1. Clone any project:  
-   git clone https://github.com/LDSPrgrm/<repo>.git  
-2. Read the project README for setup (virtualenv / composer / flutter / dart).  
-3. For ML work, use pinned requirements or provided notebooks to reproduce results.  
-4. For realtime demos, run the websocket backend and the dev frontend, then watch the event logs.
-
----
-
-## 🤝 How to help / collaborate
+## 🤝 How to Help / Collaborate
 
 - Star repositories you find useful ⭐  
 - Open concise issues with reproduction steps 🐞  
@@ -122,10 +109,6 @@ I love the small pleasures of engineering: the satisfying hum of a background jo
 
 ---
 
-- Any badges/stats/cards you want included
-
 <p align="center">
   <strong style="font-size:1.05rem;">If a problem matters to you, let's build the tool that makes it manageable — beautifully and reliably ✨</strong>
 </p>
-
-[Back to top](#ldsprgrm)
