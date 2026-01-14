@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="public/logo.svg" alt="LDSPrgrm Logo" width="160" height="160" />
-</p>
-
 <h1 align="center">LDSPrgrm</h1>
 
 <p align="center">
@@ -19,7 +15,7 @@
 
 ---
 
-<!-- HERO -->
+<!-- HERO BADGES -->
 <p align="center">
   <img src="https://img.shields.io/badge/Docs-updating-ffd166?style=for-the-badge" alt="Docs" />
   &nbsp;
@@ -30,7 +26,7 @@
 
 ---
 
-## 🌟 Who I am
+## 🌟 Who I Am
 
 I build with curiosity, craft with care, and ship with quiet confidence. I approach problems like a sculptor: chip away the unnecessary, reveal the elegant shape, and polish until the tool feels inevitable. My work sits where practical engineering meets thoughtful design — resilient backends that hum, frontends that breathe, and AI experiments that surface meaning.
 
@@ -38,11 +34,11 @@ I build with curiosity, craft with care, and ship with quiet confidence. I appro
 
 ---
 
-## ✨ Highlight reel — featured projects
+## ✨ Highlight Reel — Featured Projects
 
 <div align="center">
 
-### AlgoVision
+#### AlgoVision
 <p align="center">
   <strong>Interactive algorithm studio • Python</strong>
 </p>
@@ -50,13 +46,13 @@ I build with curiosity, craft with care, and ship with quiet confidence. I appro
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python" alt="Python" />
   <img src="https://img.shields.io/badge/Use-Visualization-9cf?style=flat" alt="Visualization" />
 </p>
-<p>
-A cinematic, interactive environment that renders algorithm execution as living, explorable narratives. Instrumentation captures memory and control-flow, renders frame-by-frame transitions (arrays, heaps, graphs), and exposes tunable knobs for inputs and invariants — turning abstract complexity into tactile intuition.
+<p align="center">
+  A cinematic, interactive environment that renders algorithm execution as living, explorable narratives. Instrumentation captures memory and control-flow, renders frame-by-frame transitions (arrays, heaps, graphs), and exposes tunable knobs for inputs and invariants — turning abstract complexity into tactile intuition.
 </p>
 
 ---
 
-### CycloSync
+#### CycloSync
 <p align="center">
   <strong>Realtime sync & telemetry • Vue.js</strong>
 </p>
@@ -64,13 +60,13 @@ A cinematic, interactive environment that renders algorithm execution as living,
   <img src="https://img.shields.io/badge/Framework-Vue.js-42b883?style=flat&logo=vue.js" alt="Vue" />
   <img src="https://img.shields.io/badge/Pattern-Realtime-ffb86b?style=flat" alt="Realtime" />
 </p>
-<p>
-A WebSocket-first architecture designed for low-latency, multi-client consistency. Event-stream choreography, optimistic reconciliation, and tiny micro-interactions produce smooth UX even when network events arrive out of order — ideal for telemetry dashboards and collaborative editors.
+<p align="center">
+  A WebSocket-first architecture designed for low-latency, multi-client consistency. Event-stream choreography, optimistic reconciliation, and tiny micro-interactions produce smooth UX even when network events arrive out of order — ideal for telemetry dashboards and collaborative editors.
 </p>
 
 ---
 
-### LiveSubs
+#### LiveSubs
 <p align="center">
   <strong>Low-latency captioning pipeline • Python</strong>
 </p>
@@ -78,15 +74,44 @@ A WebSocket-first architecture designed for low-latency, multi-client consistenc
   <img src="https://img.shields.io/badge/Tech-Python-3776AB?style=flat&logo=python" alt="Python" />
   <img src="https://img.shields.io/badge/Feature-Low%20Latency-ea580c?style=flat" alt="Low Latency" />
 </p>
-<p>
-A modular streaming pipeline that stitches ASR, punctuation & normalization, diarization, and timecode alignment into production-ready subtitles. Designed so each stage can be swapped or scaled independently: flexible for experimentation, reliable for broadcast.
+<p align="center">
+  A modular streaming pipeline that stitches ASR, punctuation & normalization, diarization, and timecode alignment into production-ready subtitles. Designed so each stage can be swapped or scaled independently: flexible for experimentation, reliable for broadcast.
 </p>
 
 </div>
 
 ---
 
-## ⚙️ Core focus & obsessions
+## 🧰 Tech Stack
+
+<p align="center">
+  <!-- Languages & Frameworks -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/NiceGUI-00AABB?style=for-the-badge" alt="NiceGUI" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Dart-00B4AB?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Vue-42b883?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Native" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+</p>
+
+<p align="center">
+  <!-- Datastores -->
+  <img src="https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+---
+
+## ⚙️ Core Focus & Obsessions
 
 - Backend craftsmanship: robust APIs, resilient queues, reproducible releases 🛠️  
 - Pragmatic ML: rapid prototyping → reproducible inference → productionized pipelines 🧪  
@@ -95,32 +120,35 @@ A modular streaming pipeline that stitches ASR, punctuation & normalization, dia
 
 ---
 
-## 🧩 Tech stack
+## 📈 Contributions — Total, Current Streak & Longest Streak
 
+<div align="center">
+
+<!-- Contribution heatmap (last 12 months) -->
+### Total contributions (last 12 months)
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
-  <img src="https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <!-- contribution graph image -->
+  <img src="https://ghchart.rshah.org/LDSPrgrm" alt="LDSPrgrm's GitHub contributions chart" />
 </p>
 
 ---
 
-## 📐 Features & patterns I love
+<!-- Streak stats (current & longest) -->
+### Current streak & Longest streak
+<p align="center">
+  <!-- streak stats image -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LDSPrgrm&theme=light&date_format=%5BY%20%5DM%20j" alt="LDSPrgrm's streak stats" />
+</p>
 
-- Modular, testable pipelines (ML, ETL, streaming)  
-- Event-driven systems and idempotent consumers  
-- Observability-first releases (metrics, traces, structured logs)  
-- Small, reviewed PRs — fast feedback, high quality
+</div>
+
+Notes:
+- The heatmap above visualizes daily contributions for the last 12 months.
+- The streak card shows your current contribution streak and your longest streak (auto-updates).
 
 ---
 
-## 📈 GitHub stats (light theme)
+## 📊 GitHub Overview
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LDSPrgrm&show_icons=true&theme=light" alt="LDSPrgrm's GitHub stats" />
@@ -129,7 +157,7 @@ A modular streaming pipeline that stitches ASR, punctuation & normalization, dia
 
 ---
 
-## 💬 Connect & collaborate
+## 💬 Connect & Collaborate
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ldsubala/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -141,17 +169,15 @@ A modular streaming pipeline that stitches ASR, punctuation & normalization, dia
 
 ---
 
-## 🤝 How to help
+## 🤝 How to Help
 
 - Star repositories you find useful ⭐  
 - Open concise issues with reproduction steps 🐞  
 - Submit small, test-covered PRs for faster review 🔁  
-- Share an idea or ask for collab — I love focused, practical projects
+- Share an idea or ask for collaboration — I love focused, practical projects
 
 ---
 
 <p align="center">
   <strong style="font-size:1.1rem;">If a problem matters to you, let's build the tool that makes it manageable — beautifully and reliably ✨</strong>
 </p>
-
-[Back to top](#ldsprgrm)
