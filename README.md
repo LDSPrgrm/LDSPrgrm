@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="public/logo.svg" alt="LDSPrgrm Logo" width="140" height="140" />
-</p>
-
 <h1 align="center">LDSPrgrm</h1>
 
 <p align="center">
